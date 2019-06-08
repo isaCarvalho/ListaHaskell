@@ -1,0 +1,1 @@
+rodar n lista = drop n lista ++ take n lista

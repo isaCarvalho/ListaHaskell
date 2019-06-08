@@ -1,0 +1,1 @@
+matriz m1 m2 = if m1 == m2 then True else False
